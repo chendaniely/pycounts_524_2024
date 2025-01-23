@@ -2,6 +2,8 @@
 
 [![codecov](https://codecov.io/github/chendaniely/pycounts_524_2024/graph/badge.svg?token=BTGVV8MGDH)](https://codecov.io/github/chendaniely/pycounts_524_2024)
 
+[![Documentation Status](https://readthedocs.org/projects/pycounts-524-2024/badge/?version=latest)](https://pycounts-524-2024.readthedocs.io/en/latest/?badge=latest)
+
 Calculate word counts in a text file!
 
 ## Installation
