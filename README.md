@@ -1,5 +1,7 @@
 # pycounts_524_2024
 
+[![codecov](https://codecov.io/github/chendaniely/pycounts_524_2024/graph/badge.svg?token=BTGVV8MGDH)](https://codecov.io/github/chendaniely/pycounts_524_2024)
+
 Calculate word counts in a text file!
 
 SemVer update needs special commit message starting text.
