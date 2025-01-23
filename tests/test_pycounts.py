@@ -1,4 +1,5 @@
-from pycounts_524_2024.pycounts import count_words
+import pycounts_524_2024 as pc
+
 from collections import Counter
 
 def test_count_words():
@@ -7,5 +8,5 @@ def test_count_words():
                         'the': 1, 'same': 1, 'thing': 1,
                         'over': 2, 'and': 2, 'expecting': 1,
                         'different': 1, 'results': 1})
-    actual = count_words("tests/einstein.txt")
+    actual = pc.count_words("tests/einstein.txt")
     assert actual == expected, "Einstein quote counted incorrectly!"
