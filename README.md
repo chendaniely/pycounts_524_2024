@@ -2,6 +2,8 @@
 
 Calculate word counts in a text file!
 
+SemVer update needs special commit message starting text.
+
 ## Installation
 
 ```bash
